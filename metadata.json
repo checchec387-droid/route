@@ -1,0 +1,6 @@
+{
+  "name": "ARP Road Design Expert - Conception Routière & Ingénierie Géométrique",
+  "description": "Plateforme professionnelle d'ingénierie et conception géométrique routière multi-normes (Guide Cerema ARP 2022, ICTAAL, Carrefours Interurbains SETRA et Échangeurs) accessible directement sans inscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
